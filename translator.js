@@ -1,5 +1,4 @@
 //Xinyi Xiao
-//CSC337 PA7
 //This file will implenment a server served as a translator, which reads users' requests about
 //content and translation type from url and send back the translation of target language
 
