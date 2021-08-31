@@ -1,5 +1,4 @@
 //Xinyi Xiao
-//CSC337 PA7
 //This js program read users' inputs, send AJAX requests to the server
 //and render the return data from the server.
 
