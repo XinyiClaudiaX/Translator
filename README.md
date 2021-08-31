@@ -1,7 +1,7 @@
 # Translator
 Simple google-translation like web app built with AJAX, vanilla JS, NodeJS and ExpressJS.
 
-## Runnning Instruction
+## Running Instruction
 Step 1 Download all the files in this repo  
 
 Step 2 Install NodeJS and ExpressJS  
