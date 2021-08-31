@@ -1,0 +1,50 @@
+/*Xinyi Xiao
+CSC337 PA7
+This is the CSS to render the HTML file of a google translator-like web app "translator". */
+header {
+	background-color: yellow;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+}
+
+
+#left_field,#right_field {
+	background-color: gray;
+	position: fixed;
+	top: 25%;
+	height: 74%;
+	width: 49.6%;
+	border: 3px solid black;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+}
+
+#left_field {
+	left: 0.1%;
+}
+
+#right_field{
+	left: 49.9%;
+}
+
+#input,.text_div {
+	background-color: white;
+	color: black;
+	font-size:30px;
+	width: 60%;
+	height: 60%;
+}
+
+.language1,.language2{
+	font-size: 30px;
+	width: 50%;
+	height: 10%;
+	margin: 10%;
+	border: 2px solid black;
+}
